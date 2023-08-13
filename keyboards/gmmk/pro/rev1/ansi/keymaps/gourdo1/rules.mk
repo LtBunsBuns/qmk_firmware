@@ -6,7 +6,7 @@ VIA_ENABLE = yes
 
 MOUSEKEY_ENABLE = yes
 TAP_DANCE_ENABLE = no
-CAPS_WORD_ENABLE = yes         # Enable built-in Caps Word functionality
+CAPS_WORD_ENABLE = no         # Enable built-in Caps Word functionality
 IDLE_TIMEOUT_ENABLE = yes
 STARTUP_NUMLOCK_ON = yes
 ENCODER_DEFAULTACTIONS_ENABLE = no
